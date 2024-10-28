@@ -1,0 +1,8 @@
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\bin\Debug\TesteEnum.exe.config
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\bin\Debug\TesteEnum.exe
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\bin\Debug\TesteEnum.pdb
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\obj\Debug\TesteEnum.csproj.AssemblyReference.cache
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\obj\Debug\TesteEnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\obj\Debug\TesteEnum.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\obj\Debug\TesteEnum.exe
+C:\Users\almei\source\repos\TesteEnum\TesteEnum\obj\Debug\TesteEnum.pdb
